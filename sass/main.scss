@@ -63,7 +63,7 @@ body {
   height: 100vh;
   background-color: var(--bg);
 
-  background-image: var(--imgbg);
+  background-image: var(--imgcol), var(--imgbg);
 
   display: flex;
   align-items: center;
